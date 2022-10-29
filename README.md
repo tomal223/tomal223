@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tomal223 a Front End Web Developer.
+- 👋 Hi, I’m Towhozib Ahmed Tomal a Front End Web Developer.
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning new JavaScript 
 - 📫 How to reach me: 
