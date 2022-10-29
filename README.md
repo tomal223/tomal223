@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning new JavaScript 
 - 📫 How to reach me: 
   Email: towhozib223@gmail.com
-  Facebook: https://www.facebook.com/towhozibahmed
-  Linkedin: https://www.linkedin.com/in/towhozibahmed
-  Instagram: https://www.instagram.com/towhozib_ahmed
+  Facebook: https://www.facebook.com/towhozibahmed <br>
+  Linkedin: https://www.linkedin.com/in/towhozibahmed <br>
+  Instagram: https://www.instagram.com/towhozib_ahmed <br>
   Skype: https://join.skype.com/invite/xTHkve6zE4Pm
 
 <!---
