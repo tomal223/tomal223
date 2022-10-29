@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Towhozib Ahmed Tomal a Front End Web Developer.
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning new JavaScript 
-- 📫 How to reach me: 
-  Email: towhozib223@gmail.com
+- 📫 How to reach me: <br>
+  Email: towhozib223@gmail.com <br>
   Facebook: https://www.facebook.com/towhozibahmed <br>
   Linkedin: https://www.linkedin.com/in/towhozibahmed <br>
   Instagram: https://www.instagram.com/towhozib_ahmed <br>
