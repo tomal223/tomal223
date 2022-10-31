@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Towhozib Ahmed Tomal a Front End Web Developer.
+- 👋 Hi, I’m Towhozib Ahmed Tomal a Front End Web Designer.
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: <br>
