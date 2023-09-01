@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Towhozib Ahmed Tomal a Front End Web Designer.
+- 👋 Hi, I’m Tawzib Ahmed Tomal a Front End Web Designer.
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: <br>
   Email: towhozib223@gmail.com <br>
   Facebook: https://www.facebook.com/towhozibahmed <br>
-  Linkedin: https://www.linkedin.com/in/towhozibahmed <br>
+  Linkedin: https://www.linkedin.com/in/tomal223 <br>
   Instagram: https://www.instagram.com/towhozib_ahmed <br>
   Skype: https://join.skype.com/invite/xTHkve6zE4Pm
 
