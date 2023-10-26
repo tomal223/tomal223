@@ -10,25 +10,25 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
 🎯 I'm goal-oriented and driven by a commitment to delivering outstanding results on every project I undertake.
 
 ## My Services
- ✅ Front End Web Design
- ✅ PSD to HTML
- ✅ Figma to HTML
- ✅ Website Fixing
- ✅ Responsive Web Design
- ✅ HTML Tailwind Conversion
- ✅ Static Website Design
+ ✅ Front End Web Design  
+ ✅ PSD to HTML  
+ ✅ Figma to HTML  
+ ✅ Website Fixing  
+ ✅ Responsive Web Design  
+ ✅ HTML Tailwind Conversion  
+ ✅ Static Website Design  
 
 ## GitHub Highlights
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tomal223&bg_color=000000&color=4C71F2)
+![](https://activity-graph.herokuapp.com/graph?username=tomal223&bg_color=000000&color=4C71F2)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomal223&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
+![](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomal223&theme=dark)
 
 ## Why Choose Me?
- 🚀 Fast Communication & Response Time
- 🌐 Clean and Minimal Code for Optimal Page Speed
- 😃 Customer Satisfaction as My Top Priority
+ 🚀 Fast Communication & Response Time  
+ 🌐 Clean and Minimal Code for Optimal Page Speed  
+ 😃 Customer Satisfaction as My Top Priority  
 
 ## Skills
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
