@@ -16,7 +16,8 @@ I'm a passionate Front End Web Designer dedicated to crafting error-free website
 - ✅ Front End Web Design
 - ✅ PSD to HTML
 - ✅ Figma to HTML
-- ✅ Website Fixing 
+- ✅ Website Fixing
+- ✅ Responsive Web Design 
 - ✅ HTML Tailwind Conversion
 - ✅ Static Website Design
 
@@ -34,11 +35,17 @@ I'm a passionate Front End Web Designer dedicated to crafting error-free website
 [![OOCSS](https://img.shields.io/badge/OOCSS-235A94?style=for-the-badge)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 [![BEM](https://img.shields.io/badge/BEM-1C1124?style=for-the-badge)](https://en.bem.info/)
 [![SEO](https://img.shields.io/badge/SEO-47BAF1?style=for-the-badge)](https://developers.google.com/search/docs/beginner/seo-starter-guide)
-[![Funnel Design](https://img.shields.io/badge/Funnel%20Design-FF6B6B?style=for-the-badge)](https://www.crazyegg.com/blog/funnel-design/)
+[![Funnel Design](https://img.shields.io/badge/Funnel%20Design-FF6B6B?style=for-the-badge)](https://www.crazyegg.com/blog/funnel-design)
 
 ## Get in Touch
 - ✉ Email: [towhozib223@gmail.com](mailto:towhozib223@gmail.com)
 - 📞 Whatsapp: [+8801316483758](https://wa.me/8801316483758)
+
+## Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomal223)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/towhozibahmed)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tomal_223)
+[![Skype](https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/xTHkve6zE4Pm)
 
 I take pride in my ability to handcraft clean code and ensure client satisfaction. Let's work together and achieve exceptional results.
 
