@@ -38,8 +38,8 @@ I'm a passionate Front End Web Designer dedicated to crafting error-free website
 [![Funnel Design](https://img.shields.io/badge/Funnel%20Design-FF6B6B?style=for-the-badge)](https://www.crazyegg.com/blog/funnel-design)
 
 ## Get in Touch
-- ✉ Email: [towhozib223@gmail.com](mailto:towhozib223@gmail.com)
-- 📞 Whatsapp: [+8801316483758](https://wa.me/8801316483758)
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:towhozib223@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2325D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801316483758)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomal223)
