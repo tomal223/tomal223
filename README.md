@@ -1,13 +1,13 @@
-<h1 style="background-image: linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008); background-clip: text; -webkit-background-clip: text; color: transparent; text-align: center; font-size: 36px;">
+<h1 style="background-image: -o-linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008);background-image: linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008); background-clip: text; -webkit-background-clip: text; color: transparent; text-align: center; font-size: 36px;">
   Hi there, I'm Tawzib Ahmed Tomal 👋
 </h1>
 
 I'm a passionate Front End Web Designer with 3+ years of experience dedicated to crafting error-free websites that exceed client expectations. My designs adhere to the latest principles and techniques to meet modern web standards. With a keen eye for detail and a commitment to user-centric design, I strive to create web experiences that not only look stunning but also function seamlessly. My goal is to make the web a more user-friendly and aesthetically pleasing place, one project at a time.
 
 ## About Me
-💡 Having designed over 300 websites, my goal has always been to provide quality work and excellent communication.
-💼 I've had the privilege of working on various freelance platforms, collaborated with a lot of clients from different countries.
-🎯 I'm goal-oriented and driven by a commitment to delivering outstanding results on every project I undertake.
+💡 Having designed over 300 websites, my goal has always been to provide quality work and excellent communication.  
+💼 I've had the privilege of working on various freelance platforms, collaborated with a lot of clients from different countries.  
+🎯 I'm goal-oriented and driven by a commitment to delivering outstanding results on every project I undertake.  
 
 ## My Services
  ✅ Front End Web Design  
@@ -19,7 +19,7 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
  ✅ Static Website Design  
 
 ## GitHub Highlights
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)  
 ![](https://activity-graph.herokuapp.com/graph?username=tomal223&bg_color=000000&color=4C71F2)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomal223&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
