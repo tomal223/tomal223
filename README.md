@@ -1,25 +1,22 @@
-<h1 style="background-image: linear-gradient(45deg, #2980b9, #e23741, #ff8b47, #f0c717); background-clip: text; -webkit-background-clip: text; color: transparent; text-align: center; font-size: 36px;">
+<h1 style="background-image: linear-gradient(45deg, #ffe300, #ff5f68, #ff49d1, #ffd008); background-clip: text; -webkit-background-clip: text; color: transparent; text-align: center; font-size: 36px;">
   Hi there, I'm Tawzib Ahmed Tomal 👋
 </h1>
-# Hi there, I'm <img src="(https://avatars.githubusercontent.com/u/79678618?v=4)" alt="Tawzib Ahmed Tomal" width="50" height="50"> 👋
 
 I'm a passionate Front End Web Designer with 3+ years of experience dedicated to crafting error-free websites that exceed client expectations. My designs adhere to the latest principles and techniques to meet modern web standards. With a keen eye for detail and a commitment to user-centric design, I strive to create web experiences that not only look stunning but also function seamlessly. My goal is to make the web a more user-friendly and aesthetically pleasing place, one project at a time.
 
 ## About Me
 💡 Having designed over 300 websites, my goal has always been to provide quality work and excellent communication.
-
-💼 I've had the privilege of working on various freelance platforms, collaborating with a diverse array of clients from different countries.
-
+💼 I've had the privilege of working on various freelance platforms, collaborated with a lot of clients from different countries.
 🎯 I'm goal-oriented and driven by a commitment to delivering outstanding results on every project I undertake.
 
 ## My Services
- ✅ Front End Web Design 
- ✅ PSD to HTML 
- ✅ Figma to HTML 
- ✅ Website Fixing 
- ✅ Responsive Web Design  
- ✅ HTML Tailwind Conversion 
- ✅ Static Website Design  
+ ✅ Front End Web Design
+ ✅ PSD to HTML
+ ✅ Figma to HTML
+ ✅ Website Fixing
+ ✅ Responsive Web Design
+ ✅ HTML Tailwind Conversion
+ ✅ Static Website Design
 
 ## GitHub Highlights
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=tomal223&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
@@ -27,7 +24,7 @@ I'm a passionate Front End Web Designer with 3+ years of experience dedicated to
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tomal223&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=tomal223.profile&labelColor=00FF00)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tomal223&theme=dark)
- 
+
 ## Why Choose Me?
  🚀 Fast Communication & Response Time
  🌐 Clean and Minimal Code for Optimal Page Speed
